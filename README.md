@@ -1,7 +1,7 @@
 # First-Repository
 This is my introduction repository
 <br>
-Hello everyone, this is Yasharth, I am a first year Btech. student of CSE AI ML branch at JECRC university. 
+Hello everyone, this is Yasharth, I am a first year Btech. student of CSE AI ML branch at JECRC University. 
 <br>
 I belong from holy city of Prayagraj. 
 <br>
